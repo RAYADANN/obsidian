@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "sparkles",
+    "text": "Using the custom prompt 'Explain like I am 5', simplify the concepts detailed in the network models notes (OSI and TCP/IP) found under the Сеть/Модели folder."
+  },
+  {
+    "icon": "search",
+    "text": "Find all documented attack vectors related to Broken Access Control (A01) and Insecure Design (A04) across the OWASP TOP 10 and Веб-хакинг folders."
+  },
+  {
+    "icon": "file-plus",
+    "text": "Generate a comparative analysis of the Linux commands for package management versus user management, storing the result in a new note under the Linux folder."
+  },
+  {
+    "icon": "globe",
+    "text": "Research the current features and common usage scenarios for NMAP scripts, and compile a list based on the notes in Инструменты/NMAP/Скрипты."
+  }
+]
