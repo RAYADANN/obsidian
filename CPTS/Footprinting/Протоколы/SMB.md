@@ -69,25 +69,25 @@ help
 ### 📝 Technical Analysis & Media
 
 #### Порты и Службы
-| Порт | Протокол | Назначение |
-| :--- | :--- | :--- |
-| **137** | UDP | NetBIOS Name Service (NBNS) |
-| **138** | UDP | NetBIOS Datagram Service |
-| **139** | TCP | NetBIOS Session Service (SMB поверх NetBIOS) |
-| **445** | TCP | Microsoft-DS (SMB поверх TCP/Direct Host) |
+| Порт    | Протокол | Назначение                                   |
+| :------ | :------- | :------------------------------------------- |
+| **137** | UDP      | NetBIOS Name Service (NBNS)                  |
+| **138** | UDP      | NetBIOS Datagram Service                     |
+| **139** | TCP      | NetBIOS Session Service (SMB поверх NetBIOS) |
+| **445** | TCP      | Microsoft-DS (SMB поверх TCP/Direct Host)    |
 
 > [!info] Теория: SMB vs CIFS
 > **CIFS (Common Internet File System)** — это ранняя версия (диалект) SMB 1.0. В современных сетях SMB работает напрямую через TCP порт 445, минуя NetBIOS. Samba может выступать как клиент, сервер или даже контроллер домена Active Directory (начиная с версии 4).
 
 #### Версии протокола SMB
-| Версия SMB | Поддерживается (ОС) | Особенности |
-| :--- | :--- | :--- |
-| **CIFS** | Windows NT 4.0 | Связь через NetBIOS. |
-| **SMB 1.0** | Windows 2000 | Прямое соединение через TCP. |
-| **SMB 2.0** | Windows Vista / Server 2008 | Улучшена производительность, подпись сообщений, кэширование. |
-| **SMB 2.1** | Windows 7 / Server 2008 R2 | Механизмы блокировки (Leasing). |
-| **SMB 3.0** | Windows 8 / Server 2012 | Многоканальность, сквозное шифрование, RDMA. |
-| **SMB 3.1.1** | Windows 10 / Server 2016 | Проверка целостности (Pre-auth integrity), AES-128-GCM. |
+| Версия SMB    | Поддерживается (ОС)         | Особенности                                                  |
+| :------------ | :-------------------------- | :----------------------------------------------------------- |
+| **CIFS**      | Windows NT 4.0              | Связь через NetBIOS.                                         |
+| **SMB 1.0**   | Windows 2000                | Прямое соединение через TCP.                                 |
+| **SMB 2.0**   | Windows Vista / Server 2008 | Улучшена производительность, подпись сообщений, кэширование. |
+| **SMB 2.1**   | Windows 7 / Server 2008 R2  | Механизмы блокировки (Leasing).                              |
+| **SMB 3.0**   | Windows 8 / Server 2012     | Многоканальность, сквозное шифрование, RDMA.                 |
+| **SMB 3.1.1** | Windows 10 / Server 2016    | Проверка целостности (Pre-auth integrity), AES-128-GCM.      |
 
 #### Конфигурация Samba (`/etc/samba/smb.conf`)
 

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Footprinting/Протоколы/IPMI.md",
+                "file": "CPTS/WebRecon/Виртуальные хосты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPMI"
+              "title": "Виртуальные хосты"
+            }
+          },
+          {
+            "id": "f6d9f39feac6a357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPTS/WebRecon/Автоматизированная разведка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Автоматизированная разведка"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 302.5
   },
   "right": {
     "id": "8609fae45054aac3",
@@ -213,45 +228,45 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "2a483bfbddda7078",
+  "active": "f6d9f39feac6a357",
   "lastOpenFiles": [
+    "CPTS/WebRecon/Дорки.md",
+    "CPTS/WebRecon/Автоматизированная разведка.md",
+    "CPTS/WebRecon/Веб-краулинг.md",
+    "CPTS/WebRecon/`.well-known`.md",
+    "CPTS/WebRecon/Главное.md",
+    "CPTS/WebRecon/Crawling.md",
+    "CPTS/WebRecon/Fingerprinting.md",
+    "CPTS/WebRecon/Перенос DNS зоны.md",
+    "CPTS/WebRecon/DNS.md",
+    "CPTS/WebRecon/WHOIS.md",
+    "CPTS/WebRecon/Введение.md",
+    "CPTS/WebRecon/Виртуальные хосты.md",
+    "CPTS/WebRecon/Поиск DNS.md",
+    "CPTS/Footprinting/Протоколы/DNS.md",
+    "CPTS/WebRecon/Субдомены.md",
+    "gemini-scribe/Prompts/Post.md",
     "gemini-scribe/Prompts/CPTS.md",
+    "CPTS/Главное.md",
+    "CPTS/WebRecon",
+    "CPTS/Footprinting/Протоколы/SNMP.md",
     "CPTS/Footprinting/Протоколы/IPMI.md",
     "CPTS/Footprinting/Протоколы/Oracle TNS.md",
-    "CPTS/Footprinting/Протоколы/MSSQL.md",
-    "CPTS/Footprinting/Протоколы/MySQL.md",
-    "CPTS/Footprinting/Протоколы/SNMP.md",
-    "CPTS/Footprinting/Протоколы/IMAP&POP3.md",
+    "CPTS/Footprinting/Протоколы/R-Services.md",
     "CPTS/Footprinting/Протоколы/SMTP.md",
-    "CPTS/Footprinting/Протоколы/SMB.md",
-    "CPTS/Footprinting/Протоколы/DNS.md",
-    "CPTS/Footprinting/Информация о домене.md",
-    "CPTS/Footprinting/Протоколы/NFS.md",
-    "CPTS/Footprinting/Протоколы/FTP.md",
-    "CPTS/Footprinting/Принципы пересичления.md",
+    "CPTS/Footprinting/Протоколы/WinRM.md",
+    "CPTS/Footprinting/Протоколы/WMI.md",
+    "CPTS/Footprinting/Протоколы/MySQL.md",
     "CPTS/Footprinting/Протоколы",
-    "CPTS/Footprinting/Методология перечисления.md",
-    "Crack/Vapelab.mx(Users Data).md",
-    "Инструменты/IP.md",
-    "Linux/Основное.md",
-    "Footprinting.md",
-    "gemini-scribe/AGENTS.md",
-    "Template.md",
-    "gemini-scribe/Prompts/example-expert.md",
-    "copilot/copilot-custom-prompts/CPTS-Structure.md.md",
     "gemini-scribe/example-prompts.json",
     "CPTS/Footprinting",
     "CPTS",
-    "Сеть/Протоколы/SSH.md",
-    "Сеть/Протоколы/FTP.md",
-    "Linux/Команды управления пользователями.md",
     "gemini-scribe/Agent-Sessions",
     "Pasted image 20260108064647.png",
     "gemini-scribe/Prompts",
     "gemini-scribe",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Базы данных",
     "Pasted image 20260108064746.png",
     "OWASP TOP 10/Pasted image 20260108071210.png",
     "Pasted image 20260108064723.png",
