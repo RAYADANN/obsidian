@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/WebRecon/Автоматизированная разведка.md",
+                "file": "CPTS/Footprinting/Протоколы/RDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Автоматизированная разведка"
+              "title": "RDP"
             }
           }
         ],
@@ -230,18 +230,18 @@
   },
   "active": "f6d9f39feac6a357",
   "lastOpenFiles": [
-    "CPTS/WebRecon/Дорки.md",
+    "CPTS/WebRecon/WHOIS.md",
     "CPTS/WebRecon/Автоматизированная разведка.md",
+    "CPTS/WebRecon/Введение.md",
     "CPTS/WebRecon/Веб-краулинг.md",
+    "CPTS/WebRecon/Виртуальные хосты.md",
+    "CPTS/WebRecon/Fingerprinting.md",
+    "CPTS/WebRecon/Дорки.md",
     "CPTS/WebRecon/`.well-known`.md",
     "CPTS/WebRecon/Главное.md",
     "CPTS/WebRecon/Crawling.md",
-    "CPTS/WebRecon/Fingerprinting.md",
     "CPTS/WebRecon/Перенос DNS зоны.md",
     "CPTS/WebRecon/DNS.md",
-    "CPTS/WebRecon/WHOIS.md",
-    "CPTS/WebRecon/Введение.md",
-    "CPTS/WebRecon/Виртуальные хосты.md",
     "CPTS/WebRecon/Поиск DNS.md",
     "CPTS/Footprinting/Протоколы/DNS.md",
     "CPTS/WebRecon/Субдомены.md",
