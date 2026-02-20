@@ -1,6 +1,6 @@
 {
   "apiKey": "AIzaSyBbVOr8FMWGybcGpNlkunvp--gaDzuxhKk",
-  "chatModelName": "gemini-3-flash-preview",
+  "chatModelName": "gemini-2.5-pro",
   "summaryModelName": "gemini-flash-lite-latest",
   "completionsModelName": "gemini-flash-lite-latest",
   "imageModelName": "gemini-3-pro-preview",
@@ -15,7 +15,7 @@
   "modelDiscovery": {
     "enabled": true,
     "autoUpdateInterval": 24,
-    "lastUpdate": 1770392380314,
+    "lastUpdate": 1771351811942,
     "fallbackToStatic": true
   },
   "allowSystemPromptOverride": false,
