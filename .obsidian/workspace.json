@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Password Attack/Взлом паролей сетевех служб/Получение стандартных паролей.md",
+                "file": "CPTS/Password Attack/Атака Pass The Hash(PtH).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Получение стандартных паролей"
+              "title": "Атака Pass The Hash(PtH)"
             }
           }
         ]
@@ -198,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,44 +213,45 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "1bb8c064d5c04cd2",
+  "active": "2a483bfbddda7078",
   "lastOpenFiles": [
+    "CPTS/Password Attack/Windows/Процесс аутентификации Windows.md",
+    "CPTS/Password Attack/Атака Pass The Hash(PtH).md",
+    "CPTS/Password Attack/Windows/Поиск учетных данных.md",
+    "CPTS/Password Attack/Windows/Атаки на SAM.md",
+    "CPTS/Password Attack/Windows/Атака на диспетчер учетных данных.md",
+    "CPTS/Password Attack/Windows/Атака на LSASS.md",
+    "CPTS/Password Attack/Linux/Сеть/Поиск учетных данных.md",
+    "CPTS/Password Attack/Linux/Сеть/Поиск данных в сети.md",
+    "CPTS/Password Attack/Linux/Сеть",
+    "CPTS/Password Attack/Linux/Поиск учетных данных.md",
+    "CPTS/Password Attack/Linux/Пароли аунтетификации.md",
+    "CPTS/Password Attack/Linux",
+    "CPTS/Password Attack/Windows/AD.md",
+    "Linux/Символические ссылки.md",
+    "Linux/chmod/Коды доступа.md",
+    "Linux/Режимы файлов и права доступа.md",
+    "Linux/chmod",
+    "Pasted image 20260222162518.png",
+    "Linux/Процессы/Команды.md",
+    "Linux/Редактирования команд.md",
+    "Linux/Процессы",
+    "Linux/Основное.md",
+    "Linux/Основная информаци о системе.md",
+    "Linux/Команды управления пользователями.md",
+    "Linux/Команды управления пакетами.md",
+    "CPTS/Password Attack/Методы взлома паролей/Hashcat.md",
+    "CPTS/Password Attack/Методы взлома паролей/John The RipperUntitled.md",
     "CPTS/Password Attack/Взлом паролей сетевех служб/Получение стандартных паролей.md",
+    "CPTS/Password Attack/Windows",
     "CPTS/Password Attack/Взлом паролей сетевех служб/Untitled.md",
     "CPTS/Password Attack/Взлом паролей сетевех служб",
     "CPTS/Password Attack/Методы взлома паролей",
     "CPTS/Password Attack/Взлом паролей сетевех служб/Атака на сетевые службы.md",
     "CPTS/Password Attack/Методы взлома паролей/Взлом защищщеных архивов.md",
-    "CPTS/Password Attack/Методы взлома паролей/Взлом защищенных файлов.md",
-    "CPTS/Password Attack/Методы взлома паролей/Создание кастомных вордлистов.md",
-    "CPTS/Password Attack/Методы взлома паролей/Hashcat.md",
-    "CPTS/Password Attack/Методы взлома паролей/John The Ripper.md",
-    "CPTS/Password Attack/Cheat Sheet.md",
-    "CPTS/Footprinting/Протоколы/FTP.md",
     "CPTS/Password Attack",
-    "CPTS/Footprinting/Untitled.md",
-    "Веб-хакинг/Общее.md",
-    "CPTS/Footprinting/Протоколы/IPMI.md",
-    "CPTS/Footprinting/Протоколы/SMTP.md",
-    "CPTS/Metasploit/Импорт и созданеи модулей.md",
-    "CPTS/Metasploit/Meterpreter(Важно).md",
-    "CPTS/Metasploit/Plugins.md",
-    "CPTS/Metasploit/Sessions.md",
-    "CPTS/Metasploit/Databases.md",
-    "CPTS/Metasploit/Encoders.md",
-    "CPTS/Metasploit/Payload.md",
-    "CPTS/Metasploit/Цели.md",
-    "CPTS/Metasploit/Модули.md",
-    "CPTS/Metasploit/Введение.md",
     "CPTS/Metasploit/Untitled",
     "CPTS/Metasploit",
-    "CPTS/Footprinting/Информация о домене.md",
-    "CPTS/Shell/Bind Shell.md",
-    "CPTS/Shell",
-    "gemini-scribe/Agent-Sessions",
-    "CPTS/WebRecon",
-    "CPTS/Footprinting/Протоколы",
-    "gemini-scribe/example-prompts.json",
     "Pasted image 20260108064647.png",
     "Pasted image 20260108064746.png",
     "OWASP TOP 10/Pasted image 20260108071210.png",
