@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Password Attack/Атака Pass The Hash(PtH).md",
+                "file": "CPTS/Атака на общедоступные сервисы/FTP/Пример уязвимости FTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Атака Pass The Hash(PtH)"
+              "title": "Пример уязвимости FTP"
+            }
+          },
+          {
+            "id": "2c964c35bd584cec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPTS/Атака на общедоступные сервисы/FTP/Атака на FTP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Атака на FTP"
+            }
+          },
+          {
+            "id": "347a47bacb4460a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Электроника/АЦП.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "АЦП"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 322.5
   },
   "right": {
     "id": "8609fae45054aac3",
@@ -192,13 +221,24 @@
               "icon": "sparkles",
               "title": "Agent Mode"
             }
+          },
+          {
+            "id": "ae090e85273401c5",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,45 +253,46 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "2a483bfbddda7078",
+  "active": "347a47bacb4460a2",
   "lastOpenFiles": [
-    "CPTS/Password Attack/Windows/Процесс аутентификации Windows.md",
-    "CPTS/Password Attack/Атака Pass The Hash(PtH).md",
-    "CPTS/Password Attack/Windows/Поиск учетных данных.md",
-    "CPTS/Password Attack/Windows/Атаки на SAM.md",
-    "CPTS/Password Attack/Windows/Атака на диспетчер учетных данных.md",
-    "CPTS/Password Attack/Windows/Атака на LSASS.md",
-    "CPTS/Password Attack/Linux/Сеть/Поиск учетных данных.md",
-    "CPTS/Password Attack/Linux/Сеть/Поиск данных в сети.md",
-    "CPTS/Password Attack/Linux/Сеть",
-    "CPTS/Password Attack/Linux/Поиск учетных данных.md",
-    "CPTS/Password Attack/Linux/Пароли аунтетификации.md",
-    "CPTS/Password Attack/Linux",
-    "CPTS/Password Attack/Windows/AD.md",
-    "Linux/Символические ссылки.md",
-    "Linux/chmod/Коды доступа.md",
-    "Linux/Режимы файлов и права доступа.md",
-    "Linux/chmod",
-    "Pasted image 20260222162518.png",
-    "Linux/Процессы/Команды.md",
-    "Linux/Редактирования команд.md",
-    "Linux/Процессы",
-    "Linux/Основное.md",
-    "Linux/Основная информаци о системе.md",
-    "Linux/Команды управления пользователями.md",
-    "Linux/Команды управления пакетами.md",
-    "CPTS/Password Attack/Методы взлома паролей/Hashcat.md",
-    "CPTS/Password Attack/Методы взлома паролей/John The RipperUntitled.md",
-    "CPTS/Password Attack/Взлом паролей сетевех служб/Получение стандартных паролей.md",
-    "CPTS/Password Attack/Windows",
-    "CPTS/Password Attack/Взлом паролей сетевех служб/Untitled.md",
-    "CPTS/Password Attack/Взлом паролей сетевех служб",
-    "CPTS/Password Attack/Методы взлома паролей",
+    "Электроника/Стабилитрон.md",
+    "Электроника/АЦП.md",
+    "Стартапы/Приложение для знакомств.md",
+    "Электроника",
+    "CPTS/Атака на общедоступные сервисы/DNS/Атака на DNS.md",
+    "Задания/3 неделя.md",
+    "Задания/2 Неделя.md",
+    "Задания/1 Неделя.md",
+    "Книги/Исскуство схемотехники.md",
+    "Задания",
+    "CPTS/Атака на общедоступные сервисы/FTP/Атака на FTP.md",
+    "Книги",
+    "CPTS/Атака на общедоступные сервисы/SQL/Атаки на SQL(Важно).md",
+    "CPTS/Атака на общедоступные сервисы/Концепция атаки.md",
+    "CPTS/Атака на общедоступные сервисы/Неправильные настройки сервисов.md",
+    "CPTS/Атака на общедоступные сервисы/DNS/Привемер атаки на DNS.md",
+    "CPTS/Footprinting/Протоколы/DNS.md",
+    "CPTS/Атака на общедоступные сервисы/DNS",
+    "CPTS/Footprinting/Протоколы/FTP.md",
+    "CPTS/Атака на общедоступные сервисы/RDP/Пример уязвимости RDP.md",
+    "CPTS/Атака на общедоступные сервисы/RDP/Атака на RDP.md",
+    "CPTS/Атака на общедоступные сервисы/SQL/Пример уязвимости.md",
+    "CPTS/Атака на общедоступные сервисы/RDP",
+    "CPTS/Атака на общедоступные сервисы/SQL",
+    "CPTS/Атака на общедоступные сервисы/SMB/Пример уязвимости SMB.md",
+    "CPTS/Атака на общедоступные сервисы/SMB/Атака на SMB.md",
     "CPTS/Password Attack/Взлом паролей сетевех служб/Атака на сетевые службы.md",
-    "CPTS/Password Attack/Методы взлома паролей/Взлом защищщеных архивов.md",
-    "CPTS/Password Attack",
-    "CPTS/Metasploit/Untitled",
-    "CPTS/Metasploit",
+    "CPTS/Атака на общедоступные сервисы/FTP/Пример уязвимости FTP.md",
+    "CPTS/Атака на общедоступные сервисы/SMB",
+    "CPTS/Атака на общедоступные сервисы/FTP",
+    "CPTS/Password Attack/Методы взлома паролей/Создание кастомных вордлистов.md",
+    "CPTS/Атака на общедоступные сервисы",
+    "CPTS/Password Attack/Взлом паролей сетевех служб/Получение стандартных паролей.md",
+    "CPTS/Password Attack/Windows/Атака Pass The Ticket(PtT) Windows.md",
+    "CPTS/Password Attack/Windows/AD.md",
+    "Untitled.canvas",
+    "CPTS/Password Attack/Untitled",
+    "Pasted image 20260222162518.png",
     "Pasted image 20260108064647.png",
     "Pasted image 20260108064746.png",
     "OWASP TOP 10/Pasted image 20260108071210.png",
