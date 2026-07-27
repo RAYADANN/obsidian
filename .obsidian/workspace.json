@@ -22,35 +22,35 @@
             }
           },
           {
-            "id": "2c964c35bd584cec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPTS/Атака на общедоступные сервисы/FTP/Атака на FTP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Атака на FTP"
-            }
-          },
-          {
             "id": "347a47bacb4460a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Электроника/АЦП.md",
+                "file": "Видеоаналитика/Урок A2 — Свет, экспозиция, яркость кадра.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "АЦП"
+              "title": "Урок A2 — Свет, экспозиция, яркость кадра"
+            }
+          },
+          {
+            "id": "b13547004bc76076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Видеоаналитика/Журнал обучения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Журнал обучения"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +74,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -118,7 +118,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Граф"
             }
           }
         ]
@@ -213,27 +213,17 @@
             }
           },
           {
-            "id": "a40dde58806b0ed1",
-            "type": "leaf",
-            "state": {
-              "type": "gemini-agent-view",
-              "state": {},
-              "icon": "sparkles",
-              "title": "Agent Mode"
-            }
-          },
-          {
             "id": "ae090e85273401c5",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -242,56 +232,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "copilot:Open Copilot Chat": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
   "active": "347a47bacb4460a2",
   "lastOpenFiles": [
-    "Электроника/Стабилитрон.md",
-    "Электроника/АЦП.md",
-    "Стартапы/Приложение для знакомств.md",
-    "Электроника",
-    "CPTS/Атака на общедоступные сервисы/DNS/Атака на DNS.md",
-    "Задания/3 неделя.md",
-    "Задания/2 Неделя.md",
-    "Задания/1 Неделя.md",
-    "Книги/Исскуство схемотехники.md",
-    "Задания",
-    "CPTS/Атака на общедоступные сервисы/FTP/Атака на FTP.md",
-    "Книги",
-    "CPTS/Атака на общедоступные сервисы/SQL/Атаки на SQL(Важно).md",
-    "CPTS/Атака на общедоступные сервисы/Концепция атаки.md",
-    "CPTS/Атака на общедоступные сервисы/Неправильные настройки сервисов.md",
-    "CPTS/Атака на общедоступные сервисы/DNS/Привемер атаки на DNS.md",
-    "CPTS/Footprinting/Протоколы/DNS.md",
-    "CPTS/Атака на общедоступные сервисы/DNS",
-    "CPTS/Footprinting/Протоколы/FTP.md",
-    "CPTS/Атака на общедоступные сервисы/RDP/Пример уязвимости RDP.md",
-    "CPTS/Атака на общедоступные сервисы/RDP/Атака на RDP.md",
-    "CPTS/Атака на общедоступные сервисы/SQL/Пример уязвимости.md",
-    "CPTS/Атака на общедоступные сервисы/RDP",
-    "CPTS/Атака на общедоступные сервисы/SQL",
-    "CPTS/Атака на общедоступные сервисы/SMB/Пример уязвимости SMB.md",
-    "CPTS/Атака на общедоступные сервисы/SMB/Атака на SMB.md",
-    "CPTS/Password Attack/Взлом паролей сетевех служб/Атака на сетевые службы.md",
-    "CPTS/Атака на общедоступные сервисы/FTP/Пример уязвимости FTP.md",
-    "CPTS/Атака на общедоступные сервисы/SMB",
-    "CPTS/Атака на общедоступные сервисы/FTP",
-    "CPTS/Password Attack/Методы взлома паролей/Создание кастомных вордлистов.md",
-    "CPTS/Атака на общедоступные сервисы",
-    "CPTS/Password Attack/Взлом паролей сетевех служб/Получение стандартных паролей.md",
-    "CPTS/Password Attack/Windows/Атака Pass The Ticket(PtT) Windows.md",
-    "CPTS/Password Attack/Windows/AD.md",
+    "Видеоаналитика/Учебный план курса.md",
+    "Видеоаналитика/Урок A2 — Свет, экспозиция, яркость кадра.md",
+    "Видеоаналитика/Урок A1 — Что такое видеоаналитика и зачем весь курс.md",
+    "Видеоаналитика/Журнал обучения.md",
+    "Видеоаналитика/00 — оглавление.md",
+    "Видеоаналитика/06 — трекинг.md",
+    "Видеоаналитика/Этапы видеоаналитики.md",
+    "Видеоаналитика/01 — что такое видеоаналитика.md",
+    "Видеоаналитика/Кодеки GOP битрейт и FPS.md",
+    "Видеоаналитика/Нейросети — персептрон и свёртка.md",
+    "Видеоаналитика/Критерий Джонсона и пиксели на метр.md",
+    "Видеоаналитика/Камера — динамический диапазон ARD P-IRIS.md",
+    "Видеоаналитика/Оптика — аберрации и асферика.md",
+    "Видеоаналитика/Сенсоры — CCD и CMOS MOSFET.md",
+    "Работа/Чего не хватает.md",
+    "Видеоаналитика/Практика/00 — практика.md",
+    "Видеоаналитика/Конспекты/00 — конспекты.md",
+    "Видеоаналитика/12 — право и этика.md",
+    "Видеоаналитика/11 — сценарии применения.md",
+    "Видеоаналитика/10 — стеки и инструменты.md",
+    "Видеоаналитика/09 — железо и ускорение.md",
+    "Видеоаналитика/08 — метрики и качество.md",
+    "Видеоаналитика/07 — классификация событий.md",
+    "Видеоаналитика/05 — детекция объектов.md",
+    "Видеоаналитика/04 — компьютерное зрение — основы.md",
+    "Видеоаналитика/03 — камеры и захват.md",
+    "Видеоаналитика/Практика",
+    "Видеоаналитика/Конспекты",
+    "Видеоаналитика",
+    "Игры/Метод Tizzy/Анализы",
+    "Игры/Метод Tizzy",
+    "Жизнь",
+    "Работа",
+    "Игры/Концепты",
+    "Игры/Механики",
+    "Игры/Zeon — bренд и маркетинг",
+    "Pasted image 20260619154202.png",
     "Untitled.canvas",
-    "CPTS/Password Attack/Untitled",
     "Pasted image 20260222162518.png",
     "Pasted image 20260108064647.png",
     "Pasted image 20260108064746.png",
